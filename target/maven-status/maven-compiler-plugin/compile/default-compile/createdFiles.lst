@@ -1,0 +1,15 @@
+br\edu\infnet\appPetShop\model\domain\Servico.class
+br\edu\infnet\appPetShop\model\domain\Brinquedo.class
+br\edu\infnet\appPetShop\ServicoLoader.class
+br\edu\infnet\appPetShop\model\domain\Agendamento.class
+br\edu\infnet\appPetShop\model\domain\Solicitante.class
+br\edu\infnet\appPetShop\BrinquedoLoader.class
+br\edu\infnet\appPetShop\SolicitanteLoader.class
+br\edu\infnet\appPetShop\model\service\SolicitanteService.class
+br\edu\infnet\appPetShop\model\service\AgendamentoService.class
+br\edu\infnet\appPetShop\model\service\ServicoService.class
+br\edu\infnet\appPetShop\model\domain\Produto.class
+br\edu\infnet\appPetShop\model\domain\Endereco.class
+br\edu\infnet\appPetShop\model\service\BrinquedoService.class
+br\edu\infnet\appPetShop\AgendamentoLoader.class
+br\edu\infnet\appPetShop\AppPetShopApplication.class
